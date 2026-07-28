@@ -5,7 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  background-color: $light-green-color;
+  background-color: $secondary-purple;
   // Positioning context for the mobile navigation icon
   position: relative;
   .wrapper{
@@ -26,10 +26,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: $primary-purple;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $primary-purple;
   }
 }
 
@@ -59,7 +60,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit * 0.5;
-    background-color: $background-color;
+    background-color: $grey-background;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;

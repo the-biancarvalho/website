@@ -28,8 +28,8 @@ body {
   flex-direction: column;
 }
 
-h1,h2{
-  color: $primary-purple;
+h1,h2 {
+color: $primary-purple;
 }
 
 /**
@@ -110,6 +110,7 @@ a {
 
   &:visited {
     color: darken($primary-purple, 15%);
+    text-decoration: none;
   }
 
   &:hover {

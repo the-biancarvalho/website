@@ -3,7 +3,7 @@ side: true
 layout: home
 ---
 
-Hi! I am Bianca(she/her), this is my website. Here are some useful links:
+Hi! I am Bianca<span style= "cooler:purple">(she/her)</span>, this is my website. Here are some useful links:
 
 ## [Projects]()
 Here you can find the projects I was, or am currently being, part of.

@@ -3,4 +3,4 @@ layout: post
 title:  "Hi!"
 date:   2026-07-22 
 ---
-Hi! I have nothing of interesting to say right now.
+Hi! I have nothing interesting to say right now.

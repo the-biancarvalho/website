@@ -10,7 +10,7 @@ layout: default
   <div class="post-content">
     {%- if page.banner -%}
     <div class="banner">
-      <img src="{{ page.banner.src | relative_url }}" alt="{{ page.banner.alt }}">
+      <img src="{{ page.banner.src }}" alt="{{ page.banner.alt }}">
     </div>
     {%- endif -%}
     {{ content }}

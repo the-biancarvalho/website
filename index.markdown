@@ -7,10 +7,10 @@ Hi! I am Bianca<span style="color:purple">(she/her)</span>, this is my website. 
 
 ## [Projects]()
 Here you can find the projects I was, or am currently being, part of.
-## [Recent events]({{ '/events/' | relative_url }})
+## [Recent events](events)
 This is a list of events I've been to, recently.
 ## [Talks & Notes]()
 In This page you are able to find talks I gave in the past, the ones I plan to give in the near future, as well as the notes I prepared to them. Even video, if there is any available.
-## [My CV]({{ '/assets/cv.pdf' | relative_url }})
+## [My CV](assets/cv.pdf)
 Just a link to my (hopefully) updated CV.
-## [My Blog]({{ '/blog.html' | relative_url }})
+## [My Blog](blog)
